@@ -1,0 +1,19 @@
+body {
+    background-color:#FFF8DE;
+  }
+
+  h2{
+    color: black;
+    background-color: #99A98F;
+  }
+
+  h1,h3 {
+    color: black;
+    background-color: #C1D0B5;
+  }
+
+  img {
+    width: 20%;
+    height: auto;
+    border-radius: 50%;
+  }
